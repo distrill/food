@@ -1,13 +1,11 @@
 # avocado cream sauce
 ### ingredients
-
-    avocado
-    sour cream
-    mayo
-    cilantro
-    lime juice
-    garlic
+* avocado
+* sour cream
+* mayo
+* cilantro
+* lime juice
+* garlic
 
 ### how do
-
-    blend and send
+* blend and send
