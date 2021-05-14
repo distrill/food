@@ -8,4 +8,4 @@
 * garlic
 
 ### how do
-* blend and send
+1. blend and send
