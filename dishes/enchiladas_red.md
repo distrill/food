@@ -2,9 +2,9 @@
 ### ingredients
 * chicken
 * cheese
-* avocado cream sauce
-* enchilada sauce
-* corn tortillas (home made are good but store bought work fine for this recipe)
+* [avocado cream sauce](../sauces/avocado_cream_sauce.md)
+* [enchilada sauce](../sauces/enchilada_red_sauce.md)
+* [corn tortillas](../building_blocks/tortillas_corn.md) (home made are good but store bought work fine for this recipe)
 * sour cream
 * iceberg lettuce 
 ### how do
