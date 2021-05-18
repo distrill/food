@@ -11,12 +11,12 @@
 * half and half
 * cheese
 ### how do - cook
-1 add 1T oil and the onion and garlic to a soup pot. cook low heat until onions are cooked, 5-10 min
-2 s&{r,b}p
-3 add second 1T oil to the pot, along with the flour
-4 disolve flour in oil, and cook for 1 min (just to get rid of the raw flour taste)
-5 add the stock little by little, incorporating each addition before adding the next. it will start out very thick but eventually become more lquidy
-6 add the broccoli, cook until broccoli is cooked through (5 min)
+1. add 1T oil and the onion and garlic to a soup pot. cook low heat until onions are cooked, 5-10 min
+2. s&{r,b}p
+3. add second 1T oil to the pot, along with the flour
+4. disolve flour in oil, and cook for 1 min (just to get rid of the raw flour taste)
+5. add the stock little by little, incorporating each addition before adding the next. it will start out very thick but eventually become more lquidy
+6. add the broccoli, cook until broccoli is cooked through (5 min)
 ### how do -- serve
 1. heat soup that will be consumed this meal in pot
 2. when soup is warm, add a splash of half and half, plus some shredded cheese, both to taste
