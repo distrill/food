@@ -2,10 +2,17 @@
 is this not a main dish? fine, eat it on its own. but i use this a ton in other dishes    
 - [x] tacos?
 - [x] quesadilla?
-- [x] killer lunch salad?
-i generally think about organizing dishes by what time of the week i'm going to prep them. i would like to put together a "dish" in 10 minutes on a tuesday after a busy day at work.      
+- [x] killer lunch salad?       
+
+i generally think about organizing dishes by what time of the week i'm going to prep them. i would like to put together a "dish" in 10 minutes on a tuesday after a busy day at work.  
+
+
 i would love to use steak in those meals, so i tend to prep a large amount of steak on the weekend, and then use it throughout the week in various dinners.      
-this is a building block.       
+
+
+this is a building block.        
+
+
 qed
 
 ### ingredients
