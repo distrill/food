@@ -1,19 +1,19 @@
 # carne asada      
-is this not a main dish? fine, eat it on its own. but i use this a ton in other dishes    
+Is this not a main dish? Fine, eat it on its own, but I use this a ton in other dishes.   
 - [x] tacos?
 - [x] quesadilla?
 - [x] killer lunch salad?       
 
-i generally think about organizing dishes by what time of the week i'm going to prep them. i would like to put together a "dish" in 10 minutes on a tuesday after a busy day at work.  
+I generally think about organizing dishes by what time of the week I'm going to prep them. I would like to put together a "dish" in 10 minutes on a tuesday after a busy day at work.  
 
 
-i would love to use steak in those meals, so i tend to prep a large amount of steak on the weekend, and then use it throughout the week in various dinners.      
+I would love to use steak in those meals, so I tend to prep a large amount of steak on the weekend, and then use it throughout the week in various dinners.      
 
 
-this is a building block.        
+This is a building block.        
 
 
-qed
+QED
 
 ### ingredients
 * 2LB flank or skirt steak
@@ -26,14 +26,14 @@ qed
 * (1/4)C cooking oil
 
 ### how do
-1. juice the citrus fruit, put it into a big bowl (one that can be poured out of - we're going to transfer this to a ziplock, so don't use a huge ceramic bowl with no lip or you're gonna have a bad time)
-2. add garlic, salt, oil, and red peper to the mix, and whisk to combine
-3. cut the steak into grillable sized pieces. for me they're usually around or under a half pound
-4. slap the steak into a zip lock bag with the marinade. really smush it together so everything's covered. let sit in your fridge for 8 hours. take the effort to make sure the entire thing is covered in liquid.
-5. grill grill grill! i don't recommend cast iron, because the mariniade is 100% acid, but any other hot pan will work. or any silly indoor grill contraption you have. or, use a real barbecue (can you tell i live in a tiny apartment in a city :sad:)
-6. a few minutes on each side is fine, usually just until it has grill marks. i recommend slightly undercooking to your expectations, to allow you some breathing room if you want to reheat it when you prep it throughout the week.
+1. Juice the citrus fruit, put it into a big bowl (one that can be poured out of - we're going to transfer this to a ziplock, so don't use a huge ceramic bowl with no lip or you're gonna have a bad time).
+2. Add garlic, salt, oil, and red peper to the mix, and whisk to combine.
+3. Cut the steak into grillable-sized pieces - for me they're usually around or under a half pound.
+4. Put the steak into a zip lock bag with the marinade, really smush it together so everything's covered. Let sit in your fridge for 8 hours. Take the effort to make sure the entire thing is covered in liquid.
+5. Grill Grill Grill! I don't recommend cast iron, because the mariniade is 100% acid, but any other hot pan will work, or any silly indoor grill contraption you have. Or even better, use a real barbecue.
+6. A few minutes on each side is fine, usually just until it has grill marks. I recommend slightly undercooking to your expectations, to allow you some breathing room if you want to reheat it when you prep it throughout the week.
 
 ### notes
-* i prefer skirt steak, but the two cuts are really interchangable, especially in this dish
-* some people like putting cilantro in their marinade. while it does make the whole thing look more interesting, i find it burns and you don't really taste it - so it's a waste of my favorite herb. i'd rather use it fresh on the dish itself.
-* most recipes for carne asada i find online use white vinegar. i susspect this is because it's cheap. i always have apple cider vinegar on hand, and never white vinegar, so that's what i use. i presume they're completely interchangale, again esp in this dish
+* I prefer skirt steak, but the two cuts are really interchangable, especially in this dish.
+* Some people like putting cilantro in their marinade. While it does make the whole thing look more interesting, I find it burns and you don't really taste it - so it's a waste of my favorite herb. I'd rather use it fresh on the dish itself.
+* Most recipes for carne asada I find online use white vinegar - I susspect this is because it's cheap. I always have apple cider vinegar on hand, and never white vinegar, so that's what I use. I presume they're completely interchangale, again esp in this dish.
