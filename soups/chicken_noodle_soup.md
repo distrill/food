@@ -13,7 +13,7 @@
 * 1/8 cup flour
 
 ### ingredients -- serve
-* half and half
+* sour cream
 
 ### how do -- cook
 1. put 1T oil in a soup pot, along with the onion and garlic. cook on medium heat for 5-10 min
@@ -27,6 +27,6 @@
 9. rinse with cold water to stop cooking. cool, and store with a little bit of oil to keep from sticking together
 
 ### how do -- serve
-1. put soup serving into pot or pan, along with a splash of half and half
+1. put soup serving into pot or pan
 2. as soon as soup starts bubbling, put a handful of cool pasta into the pot
-3. serve immediately, and enjoy creamy chicken noodle soup with al dente pasta
+3. serve immediately with a dolop of sour cream on top
