@@ -6,7 +6,6 @@
 * celery, 4 stalks, chopped fine
 * 2 medium-large carrots, chopped fine
 * 2 medium - large chicken breasts (i use frozen ones out of a bag)
-* 1/4 cup of flour
 * 4 cups water
 * lots, i mean lots, of salt
 * 1 bunch of "poultry blend" fresh herbs, or equivalent (should contain rosemary, thyme, etc)
