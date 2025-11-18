@@ -11,9 +11,9 @@ discard or use the rest of the unused starter.
 
 ## day before
 prepare leaven by combining in a bowl:
-- 100g starter
-- 200g warm water
-- 200g flour
+- 50g starter
+- 100g warm water
+- 100g flour
 
 let sit overnight. test readiness by placing a chunk of leaven into water and it should float.
 
